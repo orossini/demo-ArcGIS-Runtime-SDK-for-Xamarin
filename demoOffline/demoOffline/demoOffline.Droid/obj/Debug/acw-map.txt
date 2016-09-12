@@ -1,0 +1,36 @@
+demoOffline.Droid.MainActivity, demoOffline.Droid;md5bb1f82899215758fe11857358ad998b7.MainActivity
+demoOffline.Droid.MainActivity, demoOffline.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bb1f82899215758fe11857358ad998b7.MainActivity
+demoOffline.Droid.MainActivity;md5bb1f82899215758fe11857358ad998b7.MainActivity
+demooffline.droid.MainActivity;md5bb1f82899215758fe11857358ad998b7.MainActivity
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler, Esri.ArcGISRuntime;md5bbfa0ee849683f03e23f9abdeac5453a.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5bbfa0ee849683f03e23f9abdeac5453a.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.AndroidDeviceInteractionHandler;md5bbfa0ee849683f03e23f9abdeac5453a.AndroidDeviceInteractionHandler
+esri.arcgisruntime.ui.AndroidDeviceInteractionHandler;md5bbfa0ee849683f03e23f9abdeac5453a.AndroidDeviceInteractionHandler
+Esri.ArcGISRuntime.UI.GeoView, Esri.ArcGISRuntime;md5bbfa0ee849683f03e23f9abdeac5453a.GeoView
+Esri.ArcGISRuntime.UI.GeoView, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5bbfa0ee849683f03e23f9abdeac5453a.GeoView
+Esri.ArcGISRuntime.UI.GeoView;md5bbfa0ee849683f03e23f9abdeac5453a.GeoView
+esri.arcgisruntime.ui.GeoView;md5bbfa0ee849683f03e23f9abdeac5453a.GeoView
+Esri.ArcGISRuntime.UI.MapView, Esri.ArcGISRuntime;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.MapView, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.MapView;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.MapView;Esri.ArcGISRuntime.UI.MapView
+Esri.ArcGISRuntime.UI.MapGLSurfaceView, Esri.ArcGISRuntime;md5bbfa0ee849683f03e23f9abdeac5453a.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.MapGLSurfaceView, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5bbfa0ee849683f03e23f9abdeac5453a.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.MapGLSurfaceView;md5bbfa0ee849683f03e23f9abdeac5453a.MapGLSurfaceView
+esri.arcgisruntime.ui.MapGLSurfaceView;md5bbfa0ee849683f03e23f9abdeac5453a.MapGLSurfaceView
+Esri.ArcGISRuntime.UI.SceneView, Esri.ArcGISRuntime;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.SceneView, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.SceneView;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.SceneView;Esri.ArcGISRuntime.UI.SceneView
+Esri.ArcGISRuntime.UI.SceneGLSurfaceView, Esri.ArcGISRuntime;md5bbfa0ee849683f03e23f9abdeac5453a.SceneGLSurfaceView
+Esri.ArcGISRuntime.UI.SceneGLSurfaceView, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5bbfa0ee849683f03e23f9abdeac5453a.SceneGLSurfaceView
+Esri.ArcGISRuntime.UI.SceneGLSurfaceView;md5bbfa0ee849683f03e23f9abdeac5453a.SceneGLSurfaceView
+esri.arcgisruntime.ui.SceneGLSurfaceView;md5bbfa0ee849683f03e23f9abdeac5453a.SceneGLSurfaceView
+Esri.ArcGISRuntime.UI.UserInteractionHandler, Esri.ArcGISRuntime;md5bbfa0ee849683f03e23f9abdeac5453a.UserInteractionHandler
+Esri.ArcGISRuntime.UI.UserInteractionHandler, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5bbfa0ee849683f03e23f9abdeac5453a.UserInteractionHandler
+Esri.ArcGISRuntime.UI.UserInteractionHandler;md5bbfa0ee849683f03e23f9abdeac5453a.UserInteractionHandler
+esri.arcgisruntime.ui.UserInteractionHandler;md5bbfa0ee849683f03e23f9abdeac5453a.UserInteractionHandler
+Esri.ArcGISRuntime.Internal.Geolocator, Esri.ArcGISRuntime;md5f021b4fd0c7924b159bdd7ed76cf0a7e.Geolocator
+Esri.ArcGISRuntime.Internal.Geolocator, Esri.ArcGISRuntime, Version=100.0.0.0, Culture=neutral, PublicKeyToken=29c6dd6e8553d944;md5f021b4fd0c7924b159bdd7ed76cf0a7e.Geolocator
+Esri.ArcGISRuntime.Internal.Geolocator;md5f021b4fd0c7924b159bdd7ed76cf0a7e.Geolocator
+esri.arcgisruntime.internal.Geolocator;md5f021b4fd0c7924b159bdd7ed76cf0a7e.Geolocator
