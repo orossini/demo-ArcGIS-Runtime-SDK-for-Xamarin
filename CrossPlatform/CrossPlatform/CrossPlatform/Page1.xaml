@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatform.Page1"
+             xmlns:esriUI="clr-namespace:Esri.ArcGISRuntime.Xamarin.Forms;assembly=Esri.ArcGISRuntime.Xamarin.Forms"
+             xmlns:mapping="clr-namespace:Esri.ArcGISRuntime.Mapping;assembly=Esri.ArcGISRuntime">
+
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="Auto" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+      <RowDefinition Height ="Auto"/>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+ 
+    <Label Text="Basemaps" Margin="10,0,0,0" VerticalOptions="Center"/>
+    <Picker x:Name="BasemapPicker" Margin="5,0,5,0" Grid.Column="1" SelectedIndexChanged="BasemapPicker_SelectedIndexChanged"/>
+    <esriUI:MapView x:Name="MapView" Map="{Binding Map}" Grid.Row="2" Grid.ColumnSpan="2"/>
+  </Grid>
+	<!--<Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />-->
+</ContentPage>
